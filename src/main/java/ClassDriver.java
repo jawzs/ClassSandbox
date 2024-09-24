@@ -1,8 +1,8 @@
 /**
  * This file instantiates and tests your Java class file.
- * @author
+ * @author Grant Elliott
  * @version 1.0
- * @since 2024-xx-xx
+ * @since 2024-09-24
  */
 
 
